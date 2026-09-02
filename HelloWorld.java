@@ -3,5 +3,3 @@ public class HelloWorld {
         System.out.println("Hello, World!");
     }
 }
-
-This Repo is Exercise repo for Fall2026 ET581
